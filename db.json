@@ -1,0 +1,26 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "KCEGCL",
+        "PN": "954256DXX",
+        "MF": "KONE"
+      },
+      "MID": "MID20288",
+      "MD": "Refer AF1",
+      "MT": "Design/Module",
+      "MQNT": 1,
+      "MCost": 0.0,
+      "MQATG": "#CLASS_2",
+      "ML": "",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20288%2Fmain%2F954256D02_en_-.1_1.pdf",
+      "MAF1": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20288%2Fmain%2FPackage_954256DXX.zip",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": []
+    }
+  ]
+}
