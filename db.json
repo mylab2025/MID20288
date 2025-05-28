@@ -20,7 +20,9 @@
       "MAF4": "",
       "MAF5": "",
       "MR": "",
-      "MaterialImages": []
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20288/main/module-icon-1793x2048-sljgu24z.png"
+      ]
     }
   ]
 }
